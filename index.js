@@ -6,6 +6,6 @@ function subtract (a,b) {
   return a-b
 }
 
-fuction multiply(a,b){
+function multiply(a,b){
   return a*b
 }
